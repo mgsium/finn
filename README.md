@@ -1,2 +1,2 @@
-# paroli
-C++ winsock messenger program
+# finn
+C++ winsock irc client
