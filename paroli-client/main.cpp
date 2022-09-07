@@ -1,6 +1,5 @@
 #ifndef WIN32_LEAN_AND_MEAN
 #define WIN32_LEAN_AND_MEAN
-#endif
 
 #define _WIN32_WINNT 0x501
 
@@ -62,3 +61,5 @@ int main(int argc, char **argv) {
 
     return 0;
 }
+
+#endif
